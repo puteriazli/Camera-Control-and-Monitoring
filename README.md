@@ -1,5 +1,7 @@
 # Camera Control & Monitoring
 
+![Web Camera](screenshot/web_cam.png)    ![Camera Parameter](screenshot/cam_parameter.png)
+
 Aplikasi sederhana berbasis **Python dan OpenCV** untuk mengakses, menampilkan, dan mengontrol webcam/kamera secara real-time.
 
 Project ini dibuat untuk memenuhi tugas **IoT & Embedded Systems**, dengan fokus pada akses kamera, live preview, pengaturan parameter kamera, single capture, burst capture, dan pergantian resolusi.
@@ -61,9 +63,13 @@ Struktur sederhana yang digunakan:
 Camera-Control-and-Monitoring/
 │
 ├── camera_control.py
-├── captures/
-│   └── *.jpg
-└── README.md
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── screenshot/
+│   ├── web_cam.png
+│   └── cam_parameter.png
+└── captures/
 ```
 
 Folder `captures/` dibuat otomatis oleh program apabila belum tersedia.
