@@ -1,6 +1,6 @@
 # Camera Control & Monitoring
 
-![Web Camera](screenshot/web_cam.png)    ![Camera Parameter](screenshot/cam_parameter.png)
+![Web Camera](screenshot/web_cam.png)        ![Camera Parameter](screenshot/cam_parameter.png)
 
 Aplikasi sederhana berbasis **Python dan OpenCV** untuk mengakses, menampilkan, dan mengontrol webcam/kamera secara real-time.
 
